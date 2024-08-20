@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "nwl esportes",
+  "bundledWebRuntime": false,
+  "npmClient": "npm"
+}
